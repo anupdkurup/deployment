@@ -1,0 +1,4 @@
+customer-portal:
+  groupid: com/infosys/demo/devops
+  type: war
+  destination: /opt/tomcat8/webapps
